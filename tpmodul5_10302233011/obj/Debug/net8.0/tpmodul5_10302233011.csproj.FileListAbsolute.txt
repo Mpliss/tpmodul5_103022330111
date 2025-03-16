@@ -1,0 +1,15 @@
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.AssemblyInfoInputs.cache
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.AssemblyInfo.cs
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.csproj.CoreCompileInputs.cache
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.sourcelink.json
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\bin\Debug\net8.0\tpmodul5_10302233011.exe
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\bin\Debug\net8.0\tpmodul5_10302233011.deps.json
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\bin\Debug\net8.0\tpmodul5_10302233011.runtimeconfig.json
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\bin\Debug\net8.0\tpmodul5_10302233011.dll
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\bin\Debug\net8.0\tpmodul5_10302233011.pdb
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.dll
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\refint\tpmodul5_10302233011.dll
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.pdb
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\tpmodul5_10302233011.genruntimeconfig.cache
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul5_10302233011\tpmodul5_10302233011\obj\Debug\net8.0\ref\tpmodul5_10302233011.dll
